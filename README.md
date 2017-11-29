@@ -1,1 +1,1 @@
-<h1>MPT-Lab7</h1>
+<h2>MPT-Lab7</h2>
