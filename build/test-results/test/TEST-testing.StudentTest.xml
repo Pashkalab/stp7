@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.StudentTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2017-11-29T15:03:50" hostname="DESKTOP-CO2J425" time="0.656">
+  <properties/>
+  <testcase name="checkStudentWithScholarhipToString" classname="testing.StudentTest" time="0.009"/>
+  <testcase name="courseIsGreaterThanAllowed" classname="testing.StudentTest" time="0.038"/>
+  <testcase name="scholarshipIsNegative" classname="testing.StudentTest" time="0.024"/>
+  <testcase name="getDay" classname="testing.StudentTest" time="0.018"/>
+  <testcase name="getGPA" classname="testing.StudentTest" time="0.032"/>
+  <testcase name="getBirthDate" classname="testing.StudentTest" time="0.013"/>
+  <testcase name="courseIsLowerThanAllowed" classname="testing.StudentTest" time="0.027"/>
+  <testcase name="nameIsNull" classname="testing.StudentTest" time="0.024"/>
+  <testcase name="setGPA" classname="testing.StudentTest" time="0.008"/>
+  <testcase name="getNationality" classname="testing.StudentTest" time="0.011"/>
+  <testcase name="classesAreNull" classname="testing.StudentTest" time="0.027"/>
+  <testcase name="setClasses" classname="testing.StudentTest" time="0.01"/>
+  <testcase name="checkStudentWithoutScholarhipToString" classname="testing.StudentTest" time="0.009"/>
+  <testcase name="setCourse" classname="testing.StudentTest" time="0.009"/>
+  <testcase name="setScholarship" classname="testing.StudentTest" time="0.007"/>
+  <testcase name="setBirthDate" classname="testing.StudentTest" time="0.009"/>
+  <testcase name="getCourse" classname="testing.StudentTest" time="0.01"/>
+  <testcase name="nationalityIsNull" classname="testing.StudentTest" time="0.023"/>
+  <testcase name="birthDateIsValid" classname="testing.StudentTest" time="0.021"/>
+  <testcase name="gpaIsLowerThanAllowed" classname="testing.StudentTest" time="0.12"/>
+  <testcase name="nameIsTooLong" classname="testing.StudentTest" time="0.028"/>
+  <testcase name="setEmail" classname="testing.StudentTest" time="0.008"/>
+  <testcase name="setPhone" classname="testing.StudentTest" time="0.007"/>
+  <testcase name="phoneNotNull" classname="testing.StudentTest" time="0.02"/>
+  <testcase name="gpaIsGreaterThanAllowed" classname="testing.StudentTest" time="0.023"/>
+  <testcase name="emailNotCorrect" classname="testing.StudentTest" time="0.023"/>
+  <testcase name="emailIsNull" classname="testing.StudentTest" time="0.029"/>
+  <testcase name="getClasses" classname="testing.StudentTest" time="0.007"/>
+  <testcase name="getEmail" classname="testing.StudentTest" time="0.008"/>
+  <testcase name="getPhone" classname="testing.StudentTest" time="0.01"/>
+  <testcase name="setNationality" classname="testing.StudentTest" time="0.007"/>
+  <testcase name="setName" classname="testing.StudentTest" time="0.009"/>
+  <testcase name="getScholarship" classname="testing.StudentTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

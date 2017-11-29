@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-11-29T15:03:50" hostname="DESKTOP-CO2J425" time="0.291">
+  <properties/>
+  <testcase name="printStudentsInfoTest" classname="testing.MainTest" time="0.201"/>
+  <testcase name="validateStudentTrueTest" classname="testing.MainTest" time="0.045"/>
+  <testcase name="exceptionThrowForInstanceTest" classname="testing.MainTest" time="0.001"/>
+  <testcase name="validateStudentFalseTest" classname="testing.MainTest" time="0.043"/>
+  <system-out><![CDATA[Student Keone Madrid was born 3-4-1996 and is of American nationality. Keone Madrid is currently on the 3 course and has 3.8 GPA. 
+Student has no scholarship. This student is studying next subjects: Biology, Literature, Chemistry, Journalism. 
+Student can be contacted via phone - 306434309343 or email - gsdj@dhfkj.com.
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
