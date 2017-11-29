@@ -6,3 +6,4 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd76a73186c9438aa7fa0429c2b34e3b)](https://www.codacy.com/app/Pashkalab/stp7?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pashkalab/stp7&amp;utm_campaign=Badge_Grade)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/fd76a73186c9438aa7fa0429c2b34e3b)](https://www.codacy.com/app/Pashkalab/stp7?utm_source=github.com&utm_medium=referral&utm_content=Pashkalab/stp7&utm_campaign=Badge_Coverage)
