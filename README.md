@@ -1,4 +1,4 @@
-<h1>MPT-Lab7</h1>
+<h1>MPT--Lab7</h1>
 
 [![Build Status](https://travis-ci.org/Pashkalab/stp7.svg?branch=master)](https://travis-ci.org/Pashkalab/stp7)
 
